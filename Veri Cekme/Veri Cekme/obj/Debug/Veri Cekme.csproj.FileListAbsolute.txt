@@ -1,0 +1,14 @@
+C:\Users\seyma\source\repos\Veri Cekme\Veri Cekme\bin\Debug\Veri Cekme.exe.config
+C:\Users\seyma\source\repos\Veri Cekme\Veri Cekme\bin\Debug\Veri Cekme.exe
+C:\Users\seyma\source\repos\Veri Cekme\Veri Cekme\bin\Debug\Veri Cekme.pdb
+C:\Users\seyma\source\repos\Veri Cekme\Veri Cekme\bin\Debug\HtmlAgilityPack.dll
+C:\Users\seyma\source\repos\Veri Cekme\Veri Cekme\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\seyma\source\repos\Veri Cekme\Veri Cekme\bin\Debug\HtmlAgilityPack.xml
+C:\Users\seyma\source\repos\Veri Cekme\Veri Cekme\obj\Debug\Veri Cekme.csprojAssemblyReference.cache
+C:\Users\seyma\source\repos\Veri Cekme\Veri Cekme\obj\Debug\Veri_Cekme.Form1.resources
+C:\Users\seyma\source\repos\Veri Cekme\Veri Cekme\obj\Debug\Veri_Cekme.Properties.Resources.resources
+C:\Users\seyma\source\repos\Veri Cekme\Veri Cekme\obj\Debug\Veri Cekme.csproj.GenerateResource.cache
+C:\Users\seyma\source\repos\Veri Cekme\Veri Cekme\obj\Debug\Veri Cekme.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\Veri Cekme\Veri Cekme\obj\Debug\Veri Cekme.csproj.CopyComplete
+C:\Users\seyma\source\repos\Veri Cekme\Veri Cekme\obj\Debug\Veri Cekme.exe
+C:\Users\seyma\source\repos\Veri Cekme\Veri Cekme\obj\Debug\Veri Cekme.pdb
